@@ -1,0 +1,38 @@
+.encabezado {
+  display: inline-block;
+  width: 250px;
+  height: 300px;
+  margin: 5px;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 3 px solid;
+  border-color: rgb(15, 112, 99);
+  border-style: solid;
+  background-color: aquamarine;
+
+  image-rendering: auto;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(9, 102, 102);
+}
+.cuerpo {
+  display: inline-block;
+  width: 250px;
+  height: 300px;
+  margin: 5px;
+  padding: 20px;
+  border: 3 px solid;
+  border-color: rgb(15, 112, 99);
+  border-style: solid;
+  background-color: aquamarine;
+
+  image-rendering: auto;
+}
+p {
+  font-size: 20px;
+  text-size-adjust: auto;
+}
